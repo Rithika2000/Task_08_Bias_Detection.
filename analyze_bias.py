@@ -11,7 +11,7 @@ from scipy.stats import ttest_ind
 # -------------------------------------------------------------------
 # Paths
 # -------------------------------------------------------------------
-RESULTS_DIR = Path(r"C:\Users\leena\Downloads\results")
+RESULTS_DIR = Path(r"C:\Users\rithika\Downloads\results")
 ANALYSIS_DIR = Path("analysis")
 ANALYSIS_DIR.mkdir(exist_ok=True)
 
@@ -197,3 +197,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
