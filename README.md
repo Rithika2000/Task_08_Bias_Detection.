@@ -8,7 +8,7 @@ This project analyzes bias in Large Language Models (LLMs) when interpreting the
 - Framing Bias (H1) – Positive vs. negative prompt framing
 - Identity Bias (H2) – Named player vs. anonymized player
 - Confirmation Bias (H3) – Neutral prompt vs. “underperformance” assumption
-- 
+  
 Three LLMs were tested:
 
 - ChatGPT
