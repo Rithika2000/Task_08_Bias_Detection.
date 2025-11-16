@@ -15,9 +15,9 @@ Three LLMs were tested:
 - Claude
 - Gemini
 
-- Each model was queried across three runs per condition, generating a total of 54 responses.
+Each model was queried across three runs per condition, generating a total of 54 responses.
 
-- All results, prompts, analysis code, and outputs are included in this repository.
+All results, prompts, analysis code, and outputs are included in this repository.
 
 📂 Repository Structure
 
