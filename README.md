@@ -1,20 +1,23 @@
-LLM Bias Detection in Data Narratives
-Syracuse University – IST Research Task 08
-Author: Rithika Gurram
+# LLM Bias Detection in Data Narratives
+## Syracuse University – IST Research Task 08
+- Author: Rithika Gurram
+
 📌 Project Overview
 This project analyzes bias in Large Language Models (LLMs) when interpreting the same dataset under different prompt conditions. Using the 2025 Syracuse Women’s Lacrosse statistics, the experiment evaluates whether models produce biased narratives based on:
 
-Framing Bias (H1) – Positive vs. negative prompt framing
-Identity Bias (H2) – Named player vs. anonymized player
-Confirmation Bias (H3) – Neutral prompt vs. “underperformance” assumption
+- Framing Bias (H1) – Positive vs. negative prompt framing
+- Identity Bias (H2) – Named player vs. anonymized player
+- Confirmation Bias (H3) – Neutral prompt vs. “underperformance” assumption
+- 
 Three LLMs were tested:
 
-ChatGPT
-Claude
-Gemini
-Each model was queried across three runs per condition, generating a total of 54 responses.
+- ChatGPT
+- Claude
+- Gemini
 
-All results, prompts, analysis code, and outputs are included in this repository.
+- Each model was queried across three runs per condition, generating a total of 54 responses.
+
+- All results, prompts, analysis code, and outputs are included in this repository.
 
 📂 Repository Structure
 
